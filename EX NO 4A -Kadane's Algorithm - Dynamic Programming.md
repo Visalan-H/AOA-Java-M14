@@ -1,4 +1,4 @@
-[# EX 4A Kadane's Algorithm - Dynamic Programming.
+# EX 4A Kadane's Algorithm - Dynamic Programming.
 
 ## AIM:
 
